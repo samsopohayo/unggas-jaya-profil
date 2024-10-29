@@ -133,37 +133,21 @@ Mengintegrasikan praktik pertanian yang berkelanjutan dan ramah lingkungan dalam
         <div class="testimonials-container row">
           <div class="testimonial-card col-12 col-lg-4 col-md-6">
             <p>
-              "Saya sangat bersyukur bisa menyekolahkan anak saya di MI Hayatul
-              Ulum. Sekolah ini tidak hanya fokus pada pendidikan akademik,
-              tetapi juga membentuk karakter dan spiritualitas siswa. Saya
-              sangat bangga melihat perkembangan anak saya yang semakin
-              disiplin, berakhlak baik, dan berhasil menghafal Juz 30 Al-Qur'an.
-              MI Hayatul Ulum benar-benar memberikan pendidikan yang menyeluruh
-              dan berkualitas."
+              "Layanan dan produk dari PT Unggas Jaya benar-benar unggul! Kami sangat puas dengan kualitas ayam potong dan telur yang mereka sediakan. Tidak hanya itu, tim mereka selalu responsif dan membantu dalam setiap pemesanan, sehingga kami merasa dihargai sebagai pelanggan. Terima kasih, PT Unggas Jaya, atas komitmen Anda dalam menyediakan produk unggas yang sehat dan berkualitas!"
             </p>
-            <span>— Orang Tua Siswa</span>
+            <span>— Agus setiawan</span>
           </div>
           <div class="testimonial-card col-12 col-lg-4 col-md-6">
             <p>
-              "Di MI Hayatul Ulum, saya tidak hanya diajarkan mata pelajaran
-              umum, tetapi juga nilai-nilai agama yang membuat saya lebih
-              percaya diri dan bersemangat dalam belajar. Saya merasa beruntung
-              bisa menjadi bagian dari sekolah ini dan mendapatkan pendidikan
-              yang tidak hanya untuk dunia, tetapi juga untuk akhirat."
+              "Kami telah bekerja sama dengan PT Unggas Jaya selama lebih dari dua tahun, dan mereka selalu konsisten dalam memberikan produk unggas dengan standar tertinggi. Semua produk datang tepat waktu dan selalu dalam kondisi segar. Sangat direkomendasikan untuk siapa saja yang membutuhkan pasokan unggas berkualitas."
             </p>
-            <span>— Naura Rifda Athifah, Siswa Hafidz Juz 30</span>
+            <span>— Naura maulid</span>
           </div>
           <div class="testimonial-card col-12 col-lg-4 col-md-6">
             <p>
-              "Sebagai alumni MI Hayatul Ulum, saya merasakan betul manfaat dari
-              pendidikan yang diberikan. Bukan hanya ilmu pengetahuan yang saya
-              dapatkan, tetapi juga nilai-nilai kejujuran, tanggung jawab, dan
-              kerjasama yang sangat berguna di kehidupan sehari-hari. Guru-guru
-              di sini sangat peduli dan mendidik dengan penuh kasih sayang,
-              sehingga saya merasa siap melanjutkan ke jenjang pendidikan yang
-              lebih tinggi dengan bekal yang kuat."
+              "Kualitas unggas dari PT Unggas Jaya memang tak tertandingi. Tim mereka profesional dan berdedikasi, dan kualitas produk yang mereka kirimkan selalu memenuhi standar yang kami harapkan. Kami merasa beruntung bisa menjalin kerja sama jangka panjang dengan perusahaan yang begitu terpercaya dan fokus pada kepuasan pelanggan."
             </p>
-            <span>— Alumni MI Hayatul Ulum</span>
+            <span>— Supraman tejo</span>
           </div>
         </div>
       </section>
@@ -199,8 +183,8 @@ Mengintegrasikan praktik pertanian yang berkelanjutan dan ramah lingkungan dalam
     <footer>
       <div class="footer-content">
         <div class="footer-section">
-          <h3>MI Hayatul Ulum</h3>
-          <p>Berilmu, Beramal, Berprestsi & Berakhlakul Karimah.</p>
+          <h3>Unggas Jaya</h3>
+          <p>Bergizi, Berkualitas, dan Higienis</p>
         </div>
         <div class="footer-section">
           <h3>Kontak</h3>
@@ -208,19 +192,19 @@ Mengintegrasikan praktik pertanian yang berkelanjutan dan ramah lingkungan dalam
             Jalan Tambak Saji 1, Gedungan Barat, Desa Gedungan, Kecamatan
             Batuan, Kabupaten Sumenep
           </p>
-          <p>085331494739</p>
-          <p>Ulum_Hayatul@yahoo.com</p>
+          <p>085331494781</p>
+          <p>Unggas jaya@yahoo.com</p>
         </div>
         <div class="footer-section row d-grid justify-content-center">
           <h3 class="col">Follow Us</h3>
           <div class="social-icons col">
             <a
-              href="https://www.facebook.com/profile.php?id=61557030051623&locale=id_ID"
+              href=""
               class="icon-facebook"
               ><Facebook size="20"
             /></a>
             <a
-              href="https://www.instagram.com/mi.hayatul.ulum/"
+              href=""
               class="icon-instagram"
               ><Instagram size="20"
             /></a>
