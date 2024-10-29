@@ -1,0 +1,40 @@
+/* Global Styles */
+body {
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+/* Hero Section */
+.hero {
+  background: url("./upa.jpeg") no-repeat center center;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 4rem;
+}
+
+.hero p {
+  font-size: 1.5rem;
+}
+
+/* Section Title */
+.section-title {
+  color: #4caf50;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+/* Footer */
+footer {
+  background-color: #4caf50;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
