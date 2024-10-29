@@ -172,9 +172,9 @@ Mengintegrasikan praktik pertanian yang berkelanjutan dan ramah lingkungan dalam
         <h2>Gallery</h2>
         <div class="gallery-container">
           <div class="carousel">
-            <div class="slide"><img src="./assets/service1.jpeg" alt="Gallery Image 1" /></div>
-            <div class="slide"><img src="./assets/pm.jpeg" alt="Gallery Image 2" /></div>
-            <div class="slide"><img src="./assets/mc.jpeg" alt="Gallery Image 3" /></div>
+            <div class="slide"><img src="./assets/card-2.jpeg" alt="Gallery Image 1" /></div>
+            <div class="slide"><img src="./assets/card-3.jpg" alt="Gallery Image 1" /></div>
+            <div class="slide"><img src="./assets/card-1.jpg" alt="Gallery Image 1" /></div>
             <!-- Tambahkan lebih banyak slide sesuai kebutuhan -->
           </div>
           <button class="prev">&lt;</button>
@@ -560,7 +560,6 @@ h3 {
 #gallery {
   text-align: center;
   padding: 2rem;
-  background-color: #000;
 }
 
 .gallery-container {
