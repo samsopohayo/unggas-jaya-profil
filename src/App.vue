@@ -91,9 +91,9 @@ Mengintegrasikan praktik pertanian yang berkelanjutan dan ramah lingkungan dalam
               <img src="./assets/card-1.jpg" alt="Card Image">
             </div>
             <div class="card-content">
-              <h2 class="card-title">Unggas Jaya</h2>
+              <h2 class="card-title">Telur Eceran</h2>
               <p class="card-text">
-                Produk unggas terbaik kami menghadirkan kualitas yang bergizi, higienis, dan terjamin untuk setiap rumah tangga.
+                PT Unggas Jaya adalah mitra terpercaya dalam penyediaan telur segar secara grosir untuk kebutuhan bisnis Anda. Kami menyediakan telur berkualitas tinggi langsung dari peternakan unggas terbaik, dengan proses produksi yang memenuhi standar kebersihan dan keamanan pangan.
               </p>
               <a href="#" class="card-button">Pelajari Lebih Lanjut</a>
             </div>
@@ -104,9 +104,9 @@ Mengintegrasikan praktik pertanian yang berkelanjutan dan ramah lingkungan dalam
               <img src="./assets/card-2.jpeg" alt="Card Image">
             </div>
             <div class="card-content">
-              <h2 class="card-title">Unggas Jaya</h2>
+              <h2 class="card-title">Telur Grosir</h2>
               <p class="card-text">
-                Produk unggas terbaik kami menghadirkan kualitas yang bergizi, higienis, dan terjamin untuk setiap rumah tangga.
+                Telur unggulan PT Unggas Jaya adalah pilihan sempurna untuk memenuhi kebutuhan protein harian Anda. Diproduksi dari peternakan unggas yang dikelola dengan standar kebersihan dan kualitas tinggi
               </p>
               <a href="#" class="card-button">Pelajari Lebih Lanjut</a>
             </div>
@@ -117,9 +117,9 @@ Mengintegrasikan praktik pertanian yang berkelanjutan dan ramah lingkungan dalam
                 <img src="./assets/card-3.jpg" alt="Card Image">
               </div>
               <div class="card-content">
-                <h2 class="card-title">Unggas Jaya</h2>
+                <h2 class="card-title">Ayam Petelur</h2>
                 <p class="card-text">
-                  Produk unggas terbaik kami menghadirkan kualitas yang bergizi, higienis, dan terjamin untuk setiap rumah tangga.
+                  PT Unggas Jaya menyediakan ayam petelur berkualitas tinggi yang dirawat dengan standar peternakan modern untuk menghasilkan telur yang sehat dan bergizi. Kami berkomitmen memberikan solusi terbaik bagi peternak maupun konsumen yang membutuhkan ayam petelur produktif dan bernilai ekonomis.
                 </p>
                 <a href="#" class="card-button">Pelajari Lebih Lanjut</a>
               </div>
@@ -173,7 +173,7 @@ Mengintegrasikan praktik pertanian yang berkelanjutan dan ramah lingkungan dalam
           saja!
         </p>
         <div class="d-flex justify-content-center">
-          <a href="mailto:Ulum_Hayatul@yahoo.com" class="btn btn-danger w-25"
+          <a href="mailto:pt.unggasjayasejahtera@gmail.com" class="btn btn-danger w-25"
             >Send us an Email</a
           >
         </div>
@@ -193,7 +193,7 @@ Mengintegrasikan praktik pertanian yang berkelanjutan dan ramah lingkungan dalam
             Batuan, Kabupaten Sumenep
           </p>
           <p>085331494781</p>
-          <p>Unggas jaya@yahoo.com</p>
+          <p>pt.unggasjayasejahtera@gmail.com</p>
         </div>
         <div class="footer-section row d-grid justify-content-center">
           <h3 class="col">Follow Us</h3>
